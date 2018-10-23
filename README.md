@@ -4,7 +4,6 @@ Hand gesture recognition is very significant for human-computer interaction. Wit
 
 ## How to run our code
 
- 
 1. database - where we save the image for each gesture under particular folder.
 
 2. export_model - folder where we save our predict function.
@@ -20,7 +19,7 @@ Hand gesture recognition is very significant for human-computer interaction. Wit
 7. testing.py - python script to contol the mouse functionality for testing our save tensorflow model
 
 
-# Our model accuracy is 98%
+## Our model accuracy is 98.25%
 
 ## References
 ## 1. [tensorflow](https://www.tensorflow.org/tutorials/estimators/cnn)
