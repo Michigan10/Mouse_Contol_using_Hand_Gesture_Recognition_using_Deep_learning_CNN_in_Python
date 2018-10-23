@@ -2,6 +2,12 @@
 This is my personal projects for self learning.
 Hand gesture recognition is very significant for human-computer interaction. With the help of hand gesutre i am try to control the mouse events such as copy, paste, open a file, moving the mouse. The  data set of 100 images of each gesture. Here i have used only 5 gesture to contol my mouse action. Our method performs well and is highly efficient.
 
+<p align="center"> *************************************************************************************************************************************</p>
+
+<div align="center"><img src ="https://github.com/Michigan10/Mouse_Contol_using_Hand_Gesture_Recognition_using_Deep_learning_CNN_in_Python/blob/master/hand_gesture_image.png"  width="791" height="626" /></div>
+
+<p align="center"> *************************************************************************************************************************************</p>
+
 ## How to run our code
 
 1. database - where we save the image for each gesture under particular folder.
