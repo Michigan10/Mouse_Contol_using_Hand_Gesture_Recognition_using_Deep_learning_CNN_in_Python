@@ -20,12 +20,9 @@ Hand gesture recognition is very significant for human-computer interaction. Wit
 7. testing.py - python script to contol the mouse functionality for testing our save tensorflow model
 
 
-## Our model accuracy is 98%
+# Our model accuracy is 98%
 
 ## References
-
 ## 1. [tensorflow](https://www.tensorflow.org/tutorials/estimators/cnn)
-
 ## 2. [tensorbord](https://www.tensorflow.org/guide/summaries_and_tensorboard)
-
-## 3. [pyautogui](https://automatetheboringstuff.com/chapter18/
+## 3. [pyautogui](https://automatetheboringstuff.com/chapter18/)
