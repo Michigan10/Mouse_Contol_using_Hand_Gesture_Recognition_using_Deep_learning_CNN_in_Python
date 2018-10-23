@@ -25,3 +25,6 @@ Hand gesture recognition is very significant for human-computer interaction. Wit
 ## 1. [tensorflow](https://www.tensorflow.org/tutorials/estimators/cnn)
 ## 2. [tensorbord](https://www.tensorflow.org/guide/summaries_and_tensorboard)
 ## 3. [pyautogui](https://automatetheboringstuff.com/chapter18/)
+<p align="center"> *************************************************************************************************************************************</p>
+
+<div align="center"><img src ="https://github.com/Michigan10/Mouse_Contol_using_Hand_Gesture_Recognition_using_Deep_learning_CNN_in_Python/blob/master/loss_image.png"  width="507" height="354" /></div>
